@@ -40,13 +40,13 @@ Dấu tay rõ nhất của tôi là ở phần góp ý và kiểm tra lại prob
 
 | Phase | Tôi dùng AI để làm gì? | AI hữu ích ở đâu? | AI sai / hời hợt ở đâu? | Tôi sửa gì bằng nhận định của mình? |
 |---|---|---|---|---|
-| Scan |Không dùng |Không dùng |Không dùng |Tôi tự scan và ghi nhận vấn đề dựa trên quan sát thực tế. |
+| Scan |Không dùng - Không cần thiết |Không dùng |Không dùng |Tôi tự scan và ghi nhận vấn đề dựa trên quan sát thực tế. |
 | Problem Card |Dùng AI để hỗ trợ diễn đạt và kiểm tra problem card đã đủ rõ chưa. |Giúp tôi nhìn ra những chỗ còn chung chung hoặc thiếu context. |AI đôi khi diễn đạt vấn đề quá rộng hoặc nghe hợp lý nhưng chưa chắc đúng với thực tế. |Tôi tự đối chiếu với những gì đã quan sát và chỉnh lại để problem card sát thực tế hơn. |
-| Workflow |Không dùng |Không dùng |Không dùng |Tôi cùng nhóm thống nhất workflow dựa trên cách làm việc thực tế. |
+| Workflow |Không dùng - Không cần thiết |Không dùng |Không dùng |Tôi cùng nhóm thống nhất workflow dựa trên cách làm việc thực tế. |
 | Research |Dùng AI để hỗ trợ tìm hướng research, gợi ý từ khóa và tổng hợp thông tin ban đầu. |Giúp tôi tìm nhanh các hướng cần kiểm chứng và tiết kiệm thời gian đọc ban đầu. |Một số thông tin AI đưa ra còn chung chung hoặc cần kiểm tra lại nguồn. |Tôi tự kiểm tra nguồn và chỉ giữ lại những thông tin phù hợp với problem của nhóm. |
 | Problem Statement |Dùng AI để thử cách diễn đạt problem statement rõ và ngắn gọn hơn. |Giúp tôi có thêm cách diễn đạt và nhận ra một số điểm chưa rõ trong statement. |AI có thể làm câu chữ mượt hơn nhưng vô tình làm problem rộng hơn hoặc thêm giả định. |Tôi chỉnh lại dựa trên context và evidence đã có, đảm bảo statement phản ánh đúng vấn đề nhóm xác định. |
-| Rule / Workflow / Agent |Không dùng. |Không dùng. |Không dùng. |Tôi cùng nhóm thảo luận và xây dựng dựa trên problem đã thống nhất. |
-| Decision |Không dùng. |Không dùng. |Không dùng.  |Tôi đưa ra ý kiến dựa trên evidence và thảo luận của nhóm. |
+| Rule / Workflow / Agent |Không dùng. - Không cần thiết |Không dùng. |Không dùng. |Tôi cùng nhóm thảo luận và xây dựng dựa trên problem đã thống nhất. |
+| Decision |Không dùng. - Không cần thiết |Không dùng. |Không dùng.  |Tôi đưa ra ý kiến dựa trên evidence và thảo luận của nhóm. |
 
 > Nếu phase nào không dùng AI, ghi `Không dùng` và vì sao tự làm.
 
