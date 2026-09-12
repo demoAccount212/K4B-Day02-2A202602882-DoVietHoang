@@ -7,7 +7,7 @@
 - Họ và tên: Đỗ Việt Hoàng
 - Mã học viên: 2A202602882
 - Nhóm: A2-N2B4
-- Candidate problem nhóm chọn: 
+- Candidate problem nhóm chọn: Chuẩn bị và sửa CV cho phù hợp với từng JD
 
 ---
 
